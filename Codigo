@@ -3,8 +3,16 @@
 presupuesto {}
 
 while True: 
-  print(".---Menu---.")
+  print(".---Bienvenido---.")
   print("1. Ingrese presupuesto")
-  print("2. Lugares")
-  print("3. 
+  print("2. Lugar de citas")
+  print("3. Transporte")
+  print("4. Definir presupuesto total")
+  print("5. Ver resumen")
+  print("6 Pa'ketes pa kuates")
+  print("7. Salir")
   opcion = input("Elige")
+
+  if opcion "1":
+    prespuesto = float(input("Ingrese presupuesto")
+    
