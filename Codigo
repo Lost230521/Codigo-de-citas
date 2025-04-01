@@ -3,6 +3,7 @@
 presupuesto {}
 
 while True 
-  print("1.Ingrese presupuesto")
-  print("2. 
+  print("1. Ingrese presupuesto")
+  print("2. Lugares")
+  print("3. 
   
