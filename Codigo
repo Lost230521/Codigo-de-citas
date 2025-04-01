@@ -2,9 +2,9 @@
 
 presupuesto {}
 
-while True 
-  print(".--Menu---.")
+while True: 
+  print(".---Menu---.")
   print("1. Ingrese presupuesto")
   print("2. Lugares")
   print("3. 
-  
+  opcion = input("Elige")
