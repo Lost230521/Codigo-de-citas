@@ -1,1 +1,8 @@
+#Programa de citas 
 
+presupuesto {}
+
+while True 
+  print("1.Ingrese presupuesto")
+  print("2. 
+  
